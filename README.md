@@ -37,4 +37,4 @@ STEPS FOR PROJECT CREATION:
 All the screeenshots of the running we app is inside the screenshots folder.
 
 
------------------------------------------------------------------- THANKY YOU ! -------------------------------------------------------------------
+--------------------- THANKY YOU ! -------------------------------------------------------------------
